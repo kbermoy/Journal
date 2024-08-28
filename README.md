@@ -1,5 +1,12 @@
 # Journal
-archives of what I did during the month of August
+archives of what I did during the month of August and my current goals
+
+<h2>Goals</h2> Must complete the top ones in order to start the bottom ones
+
+| React                       | Cloud Computing                  | Interview |
+|-----------------------------|----------------------------------|-----------|
+|[ ] complete 3 clone projects|[ ] complete cloud fundamentals   |[ ] learn DSA in JS       |
+|[ ] built my own finance app |[ ] try the cloud resume challenge|[ ] complete Neetcode 150 |
 
 ### August 22 - 25
 | Thursday 23                | Friday 24           | Saturday 25         | Sunday 26 |
